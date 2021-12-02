@@ -1,0 +1,12 @@
+{
+  "name": "superfuse",
+  "version": "1.0.0",
+  "description": "SuperFluid on Fuse",
+  "main": "index.js",
+  "author": "Bertrand Juglas",
+  "license": "MIT",
+  "dependencies": {
+    "@superfluid-finance/ethereum-contracts": "^1.0.0-rc.7",
+    "@truffle/hdwallet-provider": "^1.5.1"
+  }
+}
